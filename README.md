@@ -86,4 +86,4 @@
 ## Contact me
 To remove this trojan from your system, follow [this](https://github.com/Blank-c/Blank-Grabber/issues/142). 
 
-[https://img.shields.io/discord/1110883066878107658?label=Join%20Now&style=plastic](https://discord.gg/bTYtZ77G)
+[![Teset1](https://img.shields.io/discord/1110883066878107658?label=Join%20Now&style=plastic)](https://discord.gg/bTYtZ77G)
