@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img  src="https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png">
+   <img  src="https://h.top4top.io/p_2711r8cn81.png">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/Blank-c/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/Blank-c/Blank-Grabber">
